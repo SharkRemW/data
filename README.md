@@ -1,4 +1,4 @@
-# Data Repository for PyGOD
+# Data Repository for PyGOD, add '.npz' version
 
 The statistics of the available dataset (#Con. means the number of contextual outliers, while #Strct. means the number of structural outliers. The number of outliers is slightly less than the sum of two types of outliers because of the intersection between two types of outliers.):
 
